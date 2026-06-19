@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Space-Book/static/css/main.e8f392a7.css",
-    "main.js": "/Space-Book/static/js/main.2015b8bb.js",
+    "main.js": "/Space-Book/static/js/main.8a600505.js",
     "index.html": "/Space-Book/index.html",
     "main.e8f392a7.css.map": "/Space-Book/static/css/main.e8f392a7.css.map",
-    "main.2015b8bb.js.map": "/Space-Book/static/js/main.2015b8bb.js.map"
+    "main.8a600505.js.map": "/Space-Book/static/js/main.8a600505.js.map"
   },
   "entrypoints": [
     "static/css/main.e8f392a7.css",
-    "static/js/main.2015b8bb.js"
+    "static/js/main.8a600505.js"
   ]
 }
